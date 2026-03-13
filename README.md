@@ -19,7 +19,7 @@ images → dashboard preview
 
 # Dashboard Preview
 
-![Dashboard](images/dashboard_preview.png)
+![Dashboard](Screenshot 2026-03-13 130605.png)
 
 ---
 
